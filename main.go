@@ -56,8 +56,6 @@ func main() {
 
 	http.HandleFunc("GET /events/{id}", func(w http.ResponseWriter, r *http.Request) {
 
-		fmt.Println(r.PathValue("id"))
-
 		resp, err := http.Get(fmt.Sprintf("http://frigate:5000/api/events/%s/clip.mp4", r.PathValue("id")))
 		if err != nil {
 			fmt.Println(err)
