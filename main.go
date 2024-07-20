@@ -124,7 +124,3 @@ func (e Event) CameraNice() string {
 func (e Event) ScoreNice() int {
 	return int(e.Data.Score * 100)
 }
-
-func (e Event) MP4() string {
-	return fmt.Sprintf("/events/%s.mp4", e.ID)
-}
