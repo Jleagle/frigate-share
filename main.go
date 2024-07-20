@@ -72,7 +72,7 @@ func main() {
 		http.ServeContent(w, r, "", time.Time{}, bytes.NewReader(b))
 	})
 
-	err := http.ListenAndServe("localhost:5002", nil)
+	err := http.ListenAndServe("0.0.0.0:5002", nil)
 	if err != nil {
 		fmt.Println(err)
 		return
