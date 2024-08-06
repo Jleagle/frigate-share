@@ -1,4 +1,4 @@
-module github.com/Jleagle/smart-home/cameras
+module github.com/Jleagle/frigate-share
 
 go 1.22.4
 

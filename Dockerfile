@@ -7,8 +7,8 @@ RUN apk update \
 
 FROM alpine:latest AS runtime-env
 WORKDIR /root/
-COPY --from=build-env /root/cameras ./
+COPY --from=build-env /root/frigate-share ./
 COPY ./main.gohtml ./
 RUN apk update \
   && apk add ca-certificates curl bash
-CMD ["./cameras"]
+CMD ["./frigate-share"]
