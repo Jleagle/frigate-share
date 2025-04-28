@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "1745832368.330131-vkw10s",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745832368.330131,
+    "end_time": 1745832383.771788,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.8609375,
+        0.23333333333333334,
+        0.1203125,
+        0.7361111111111112
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.78125,
+      "top_score": 0.822265625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745831276.417675-xnqq1t",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745831276.417675,
+    "end_time": 1745831299.941242,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.6109375,
+        0.4638888888888889,
+        0.3015625,
+        0.5277777777777778
+      ],
+      "region": [
+        0.0125,
+        0.0,
+        0.9875,
+        1.7555555555555555
+      ],
+      "score": 0.84375,
+      "top_score": 0.78515625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745831266.414046-n3ttxx",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745831266.414046,
+    "end_time": 1745831276.172722,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.278125,
+        0.45,
+        0.403125,
+        0.5444444444444444
+      ],
+      "region": [
+        0.2671875,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.6640625,
+      "top_score": 0.82421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745824075.173463-a76ejn",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745824075.173463,
+    "end_time": 1745824077.482409,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.5578125,
+        0.5666666666666667,
+        0.225,
+        0.42777777777777776
+      ],
+      "region": [
+        0.4296875,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.734375,
+      "top_score": 0.71484375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745824053.512152-reab3a",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745824053.512152,
+    "end_time": 1745824078.166746,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.6125,
+        0.24722222222222223,
+        0.2125,
+        0.7277777777777777
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.0,
+        1.7777777777777777
+      ],
+      "score": 0.8203125,
+      "top_score": 0.75390625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745820649.157124-1ftpgm",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745820649.157124,
+    "end_time": 1745820659.794431,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.7078125,
+        0.5305555555555556,
+        0.2875,
+        0.46111111111111114
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.62890625,
+      "top_score": 0.78125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745818382.637277-wad63x",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745818382.637277,
+    "end_time": 1745818390.628405,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.671875,
+        0.38333333333333336,
+        0.2125,
+        0.6138888888888889
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.76171875,
+      "top_score": 0.75390625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745776310.152519-6z72l0",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745776310.152519,
+    "end_time": 1745776322.943486,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.40625,
+        0.2611111111111111,
+        0.415625,
+        0.7277777777777777
+      ],
+      "region": [
+        0.1875,
+        0.0,
+        0.8125,
+        1.4444444444444444
+      ],
+      "score": 0.82421875,
+      "top_score": 0.83984375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745776272.166394-wd7bw5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745776272.166394,
+    "end_time": 1745776283.073961,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0125,
+        0.44722222222222224,
+        0.39375,
+        0.55
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.71875,
+        1.2777777777777777
+      ],
+      "score": 0.78125,
+      "top_score": 0.82421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745776244.206288-gmogjb",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745776244.206288,
+    "end_time": 1745776258.034341,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.5296875,
+        0.2916666666666667,
+        0.221875,
+        0.7
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8046875,
+      "top_score": 0.828125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745776236.56491-s7tky4",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745776236.56491,
+    "end_time": 1745776246.620145,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.484375,
+        0.7166666666666667,
+        0.31875,
+        0.28055555555555556
+      ],
+      "region": [
+        0.2125,
+        0.0,
+        0.7875,
+        1.4
+      ],
+      "score": 0.8125,
+      "top_score": 0.744140625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745775303.026903-121cdb",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745775303.026903,
+    "end_time": 1745775314.63725,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0046875,
+        0.4861111111111111,
+        0.4984375,
+        0.5055555555555555
+      ],
+      "region": [
+        0.0,
+        0.06666666666666667,
+        0.525,
+        0.9333333333333333
+      ],
+      "score": 0.640625,
+      "top_score": 0.78125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745775294.977465-3rzp0j",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745775294.977465,
+    "end_time": 1745775304.220251,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.01875,
+        0.12222222222222222,
+        0.3578125,
+        0.8694444444444445
+      ],
+      "region": [
+        0.028125,
+        0.0,
+        0.79375,
+        1.4111111111111112
+      ],
+      "score": 0.68359375,
+      "top_score": 0.779296875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745760534.686967-b568qh",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745760534.686967,
+    "end_time": 1745760553.10929,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.425,
+        0.32222222222222224,
+        0.3140625,
+        0.675
+      ],
+      "region": [
+        0.23125,
+        0.0,
+        0.7375,
+        1.3111111111111111
+      ],
+      "score": 0.84375,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745760524.459676-e2xh4v",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745760524.459676,
+    "end_time": 1745760542.499844,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.7671875,
+        0.31666666666666665,
+        0.090625,
+        0.5083333333333333
+      ],
+      "region": [
+        0.4703125,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.83984375,
+      "top_score": 0.818359375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745760506.898065-o1kuhr",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745760506.898065,
+    "end_time": 1745760525.041468,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.4078125,
+        0.30833333333333335,
+        0.4109375,
+        0.6888888888888889
+      ],
+      "region": [
+        0.2375,
+        0.0,
+        0.7625,
+        1.3555555555555556
+      ],
+      "score": 0.83984375,
+      "top_score": 0.828125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745759269.071615-yd92p5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745759269.071615,
+    "end_time": 1745759301.550594,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.3046875,
+        0.33055555555555555,
+        0.3796875,
+        0.6527777777777778
+      ],
+      "region": [
+        0.2765625,
+        0.03333333333333333,
+        0.54375,
+        0.9666666666666667
+      ],
+      "score": 0.76171875,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745759238.071661-ajqbnc",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745759238.071661,
+    "end_time": 1745759245.337844,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0046875,
+        0.4444444444444444,
+        0.165625,
+        0.5083333333333333
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.16875,
+        2.077777777777778
+      ],
+      "score": 0.71484375,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745759226.060656-4fhmxk",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745759226.060656,
+    "end_time": 1745759238.994553,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.4546875,
+        0.2777777777777778,
+        0.3921875,
+        0.7166666666666667
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.425,
+        2.533333333333333
+      ],
+      "score": 0.76171875,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745754265.589212-j9wzp5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745754265.589212,
+    "end_time": 1745754277.02167,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.440625,
+        0.35,
+        0.3671875,
+        0.6472222222222223
+      ],
+      "region": [
+        0.2390625,
+        0.0,
+        0.7125,
+        1.2666666666666666
+      ],
+      "score": 0.83203125,
+      "top_score": 0.810546875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745754233.403872-gxq4z4",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745754233.403872,
+    "end_time": 1745754243.001742,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.3296875,
+        0.3277777777777778,
+        0.36875,
+        0.6666666666666666
+      ],
+      "region": [
+        0.153125,
+        0.0,
+        0.7375,
+        1.3111111111111111
+      ],
+      "score": 0.84375,
+      "top_score": 0.81640625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745754177.194315-dd1k7f",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745754177.194315,
+    "end_time": 1745754183.982463,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.43125,
+        0.3472222222222222,
+        0.3953125,
+        0.65
+      ],
+      "region": [
+        0.18125,
+        0.0,
+        0.81875,
+        1.4555555555555555
+      ],
+      "score": 0.82421875,
+      "top_score": 0.82421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745754147.438487-qgnlc4",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745754147.438487,
+    "end_time": 1745754157.736754,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.303125,
+        0.38055555555555554,
+        0.4,
+        0.6138888888888889
+      ],
+      "region": [
+        0.103125,
+        0.0,
+        0.8,
+        1.4222222222222223
+      ],
+      "score": 0.83203125,
+      "top_score": 0.7109375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745754088.604651-gj6ivd",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745754088.604651,
+    "end_time": 1745754098.793794,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.25625,
+        0.3527777777777778,
+        0.321875,
+        0.6416666666666667
+      ],
+      "region": [
+        0.0375,
+        0.0,
+        0.74375,
+        1.3222222222222222
+      ],
+      "score": 0.84375,
+      "top_score": 0.8125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745753539.175405-eucxm0",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745753539.175405,
+    "end_time": 1745753547.584151,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0015625,
+        0.025,
+        0.2109375,
+        0.9611111111111111
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.64375,
+        1.1444444444444444
+      ],
+      "score": 0.6640625,
+      "top_score": 0.7421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745753439.050305-tidufe",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745753439.050305,
+    "end_time": 1745753445.455756,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.2609375,
+        0.3333333333333333,
+        0.359375,
+        0.6638888888888889
+      ],
+      "region": [
+        0.0703125,
+        0.0,
+        0.73125,
+        1.3
+      ],
+      "score": 0.83984375,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752674.244374-bxevkf",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752674.244374,
+    "end_time": 1745752690.551107,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.30625,
+        0.3388888888888889,
+        0.29375,
+        0.6416666666666667
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.18125,
+        2.1
+      ],
+      "score": 0.8125,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752485.233063-7rl987",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752485.233063,
+    "end_time": 1745752507.1653,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.1109375,
+        0.2361111111111111,
+        0.309375,
+        0.7583333333333333
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.6,
+        1.0666666666666667
+      ],
+      "score": 0.8046875,
+      "top_score": 0.8046875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752462.374825-lozo9l",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752462.374825,
+    "end_time": 1745752512.095668,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.446875,
+        0.29444444444444445,
+        0.334375,
+        0.7
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.18125,
+        2.1
+      ],
+      "score": 0.84375,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752359.437663-h58a8v",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752359.437663,
+    "end_time": 1745752409.4482,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.3328125,
+        0.35555555555555557,
+        0.3546875,
+        0.6416666666666667
+      ],
+      "region": [
+        0.1484375,
+        0.0,
+        0.71875,
+        1.2777777777777777
+      ],
+      "score": 0.83984375,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752347.615761-z5o5v5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752347.615761,
+    "end_time": 1745752350.785944,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.003125,
+        0.13055555555555556,
+        0.6015625,
+        0.8472222222222222
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.6875,
+        1.2222222222222223
+      ],
+      "score": 0.75390625,
+      "top_score": 0.75390625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752024.803309-nzpc36",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752024.803309,
+    "end_time": 1745752073.830957,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0796875,
+        0.16666666666666666,
+        0.434375,
+        0.8194444444444444
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.1,
+        1.9555555555555555
+      ],
+      "score": 0.83203125,
+      "top_score": 0.83984375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745752023.413785-alihtj",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745752023.413785,
+    "end_time": 1745752031.033011,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.1046875,
+        0.3277777777777778,
+        0.434375,
+        0.6666666666666666
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.61875,
+        1.1
+      ],
+      "score": 0.8046875,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751765.424625-tfjuc8",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751765.424625,
+    "end_time": 1745751779.266902,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0078125,
+        0.3,
+        0.3640625,
+        0.6888888888888889
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.734375,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751751.196137-6neaec",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751751.196137,
+    "end_time": 1745751775.866446,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.615625,
+        0.25555555555555554,
+        0.103125,
+        0.4666666666666667
+      ],
+      "region": [
+        0.4890625,
+        0.058333333333333334,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8125,
+      "top_score": 0.822265625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751748.344446-kbd8a8",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751748.344446,
+    "end_time": 1745751777.259403,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0375,
+        0.375,
+        0.371875,
+        0.6138888888888889
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.18125,
+        2.1
+      ],
+      "score": 0.8203125,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751726.856095-zvvrk7",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751726.856095,
+    "end_time": 1745751738.662153,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.2796875,
+        0.35555555555555557,
+        0.3375,
+        0.6416666666666667
+      ],
+      "region": [
+        0.0921875,
+        0.0,
+        0.70625,
+        1.2555555555555555
+      ],
+      "score": 0.83203125,
+      "top_score": 0.818359375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751674.548472-29a34z",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751674.548472,
+    "end_time": 1745751706.890438,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.040625,
+        0.1527777777777778,
+        0.36875,
+        0.8444444444444444
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.71875,
+        1.2777777777777777
+      ],
+      "score": 0.7890625,
+      "top_score": 0.82421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751318.047656-tzt520",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751318.047656,
+    "end_time": 1745751362.236224,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.3796875,
+        0.3472222222222222,
+        0.0734375,
+        0.6055555555555555
+      ],
+      "region": [
+        0.378125,
+        0.041666666666666664,
+        0.5125,
+        0.9111111111111111
+      ],
+      "score": 0.640625,
+      "top_score": 0.80078125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751304.420025-2ixojt",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751304.420025,
+    "end_time": 1745751372.48208,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.6828125,
+        0.2861111111111111,
+        0.2640625,
+        0.7083333333333334
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.6953125,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751248.897397-sz3qr8",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751248.897397,
+    "end_time": 1745751263.24112,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.5078125,
+        0.36666666666666664,
+        0.1796875,
+        0.6222222222222222
+      ],
+      "region": [
+        0.3828125,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.7890625,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751209.495733-yo3k0j",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751209.495733,
+    "end_time": 1745751431.692985,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.615625,
+        0.2861111111111111,
+        0.115625,
+        0.46944444444444444
+      ],
+      "region": [
+        0.3578125,
+        0.06111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.84375,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751193.08238-0dxiuj",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751193.08238,
+    "end_time": 1745751202.247884,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.3078125,
+        0.30833333333333335,
+        0.1734375,
+        0.6333333333333333
+      ],
+      "region": [
+        0.0515625,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.82421875,
+      "top_score": 0.82421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751114.310254-9aetzd",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751114.310254,
+    "end_time": 1745751146.68123,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.309375,
+        0.30277777777777776,
+        0.1953125,
+        0.6861111111111111
+      ],
+      "region": [
+        0.234375,
+        0.07777777777777778,
+        0.51875,
+        0.9222222222222223
+      ],
+      "score": 0.75390625,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745751006.453826-ngiuxc",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745751006.453826,
+    "end_time": 1745751029.800335,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.4296875,
+        0.2861111111111111,
+        0.14375,
+        0.5777777777777777
+      ],
+      "region": [
+        0.3203125,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.82421875,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745750972.873218-ix0623",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745750972.873218,
+    "end_time": 1745750983.709924,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.39375,
+        0.3138888888888889,
+        0.1921875,
+        0.6805555555555556
+      ],
+      "region": [
+        0.3609375,
+        0.1,
+        0.50625,
+        0.9
+      ],
+      "score": 0.67578125,
+      "top_score": 0.828125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745749856.500446-mmxvx4",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745749856.500446,
+    "end_time": 1745749872.640892,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.1453125,
+        0.45,
+        0.3921875,
+        0.5444444444444444
+      ],
+      "region": [
+        0.14375,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.74609375,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745749780.027232-yybt82",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745749780.027232,
+    "end_time": 1745749784.561333,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.08125,
+        0.5694444444444444,
+        0.2796875,
+        0.4222222222222222
+      ],
+      "region": [
+        0.0390625,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.71484375,
+      "top_score": 0.7265625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745749300.961758-otc09r",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745749300.961758,
+    "end_time": 1745749357.107538,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.66875,
+        0.24444444444444444,
+        0.128125,
+        0.7055555555555556
+      ],
+      "region": [
+        0.41875,
+        0.0,
+        0.58125,
+        1.0333333333333334
+      ],
+      "score": 0.84375,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748321.291176-g1jg9k",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748321.291176,
+    "end_time": 1745748336.75728,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.7515625,
+        0.2611111111111111,
+        0.190625,
+        0.7222222222222222
+      ],
+      "region": [
+        0.44375,
+        0.011111111111111112,
+        0.55625,
+        0.9888888888888889
+      ],
+      "score": 0.75390625,
+      "top_score": 0.740234375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748296.064024-nz9wg5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748296.064024,
+    "end_time": 1745748304.1821,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.25625,
+        0.3638888888888889,
+        0.3015625,
+        0.6333333333333333
+      ],
+      "region": [
+        0.021875,
+        0.0,
+        0.71875,
+        1.2777777777777777
+      ],
+      "score": 0.84375,
+      "top_score": 0.76171875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748258.355477-kfgtt5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748258.355477,
+    "end_time": 1745748267.472599,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.084375,
+        0.3277777777777778,
+        0.134375,
+        0.6444444444444445
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8046875,
+      "top_score": 0.734375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748229.686924-z9m178",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748229.686924,
+    "end_time": 1745748233.324845,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.4796875,
+        0.2916666666666667,
+        0.1828125,
+        0.7
+      ],
+      "region": [
+        0.34375,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.76171875,
+      "top_score": 0.71484375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748206.945587-54vbjp",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748206.945587,
+    "end_time": 1745748214.974105,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.075,
+        0.3527777777777778,
+        0.1390625,
+        0.625
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.796875,
+      "top_score": 0.796875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748076.547861-cjyk4y",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748076.547861,
+    "end_time": 1745748088.517799,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.1234375,
+        0.34444444444444444,
+        0.190625,
+        0.65
+      ],
+      "region": [
+        0.0796875,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.74609375,
+      "top_score": 0.74609375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748065.946344-8mtkv6",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748065.946344,
+    "end_time": 1745748084.966087,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.7171875,
+        0.5361111111111111,
+        0.178125,
+        0.41388888888888886
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.74609375,
+      "top_score": 0.75,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748051.258113-xvtth4",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748051.258113,
+    "end_time": 1745748055.278223,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.66875,
+        0.2916666666666667,
+        0.2375,
+        0.7055555555555556
+      ],
+      "region": [
+        0.28125,
+        0.0,
+        0.71875,
+        1.2777777777777777
+      ],
+      "score": 0.796875,
+      "top_score": 0.71484375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745748001.699996-mrpeav",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745748001.699996,
+    "end_time": 1745748013.519155,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.5484375,
+        0.3055555555555556,
+        0.2671875,
+        0.6777777777777778
+      ],
+      "region": [
+        0.4359375,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.74609375,
+      "top_score": 0.73046875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747968.532179-9tmoi7",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747968.532179,
+    "end_time": 1745747971.737646,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.5328125,
+        0.37222222222222223,
+        0.234375,
+        0.6194444444444445
+      ],
+      "region": [
+        0.2875,
+        0.0,
+        0.7,
+        1.2444444444444445
+      ],
+      "score": 0.8203125,
+      "top_score": 0.8203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747890.337707-y3ycyi",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747890.337707,
+    "end_time": 1745747893.16127,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0296875,
+        0.4666666666666667,
+        0.2234375,
+        0.49722222222222223
+      ],
+      "region": [
+        0.0,
+        0.08888888888888889,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.5,
+      "top_score": 0.794921875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747762.373826-0klr2n",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747762.373826,
+    "end_time": 1745747785.527686,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0203125,
+        0.39166666666666666,
+        0.1515625,
+        0.4583333333333333
+      ],
+      "region": [
+        0.0,
+        0.08055555555555556,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.7890625,
+      "top_score": 0.8203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747686.118347-s3nxlt",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747686.118347,
+    "end_time": 1745747688.465436,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0546875,
+        0.36666666666666664,
+        0.1265625,
+        0.45555555555555555
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8125,
+      "top_score": 0.8125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747661.54576-zx6mhx",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747661.54576,
+    "end_time": 1745747681.88614,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.034375,
+        0.38055555555555554,
+        0.1125,
+        0.4527777777777778
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8046875,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747639.899069-qbsbtk",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747639.899069,
+    "end_time": 1745747648.717995,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.03125,
+        0.4083333333333333,
+        0.1640625,
+        0.4027777777777778
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8125,
+      "top_score": 0.744140625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747611.548999-sinwmk",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747611.548999,
+    "end_time": 1745747621.746704,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.6625,
+        0.6333333333333333,
+        0.14375,
+        0.3
+      ],
+      "region": [
+        0.4734375,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.7265625,
+      "top_score": 0.744140625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747595.901271-ymm0e7",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747595.901271,
+    "end_time": 1745747613.22982,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.1375,
+        0.37777777777777777,
+        0.1203125,
+        0.30277777777777776
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8203125,
+      "top_score": 0.7578125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747572.939528-cbrel5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747572.939528,
+    "end_time": 1745747593.186484,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0453125,
+        0.35,
+        0.1890625,
+        0.6
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.7265625,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747555.709289-ko71hw",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747555.709289,
+    "end_time": 1745747568.529662,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0546875,
+        0.3388888888888889,
+        0.171875,
+        0.5527777777777778
+      ],
+      "region": [
+        0.0,
+        0.1,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.75390625,
+      "top_score": 0.818359375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747542.808407-qhbnef",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747542.808407,
+    "end_time": 1745747546.777291,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0359375,
+        0.3638888888888889,
+        0.165625,
+        0.4888888888888889
+      ],
+      "region": [
+        0.0,
+        0.10277777777777777,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.796875,
+      "top_score": 0.76171875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747481.729156-puvueq",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747481.729156,
+    "end_time": 1745747497.983263,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.140625,
+        0.33611111111111114,
+        0.1171875,
+        0.3416666666666667
+      ],
+      "region": [
+        0.0,
+        0.1,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.82421875,
+      "top_score": 0.80078125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747467.199633-5pfnj6",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747467.199633,
+    "end_time": 1745747469.518806,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0,
+        0.39444444444444443,
+        0.1234375,
+        0.5416666666666666
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.734375,
+      "top_score": 0.76171875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747439.134113-ksyfek",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747439.134113,
+    "end_time": 1745747460.896158,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0453125,
+        0.3277777777777778,
+        0.1625,
+        0.6416666666666667
+      ],
+      "region": [
+        0.0,
+        0.1,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.76953125,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747367.297902-qcrpjl",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747367.297902,
+    "end_time": 1745747369.701915,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.6265625,
+        0.36944444444444446,
+        0.284375,
+        0.6277777777777778
+      ],
+      "region": [
+        0.29375,
+        0.0,
+        0.70625,
+        1.2555555555555555
+      ],
+      "score": 0.84375,
+      "top_score": 0.828125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747300.953183-wr9ck2",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747300.953183,
+    "end_time": 1745747334.308496,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.6390625,
+        0.36944444444444446,
+        0.3578125,
+        0.6138888888888889
+      ],
+      "region": [
+        0.48125,
+        0.07777777777777778,
+        0.51875,
+        0.9222222222222223
+      ],
+      "score": 0.67578125,
+      "top_score": 0.79296875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747298.734771-59n7vz",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747298.734771,
+    "end_time": 1745747301.953445,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.7140625,
+        0.25277777777777777,
+        0.28125,
+        0.7277777777777777
+      ],
+      "region": [
+        0.4875,
+        0.08888888888888889,
+        0.5125,
+        0.9111111111111111
+      ],
+      "score": 0.67578125,
+      "top_score": 0.734375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747277.07679-7hrx9j",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747277.07679,
+    "end_time": 1745747301.953445,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.86875,
+        0.2361111111111111,
+        0.1,
+        0.44166666666666665
+      ],
+      "region": [
+        0.4796875,
+        0.0,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.78125,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747226.467363-en6u2y",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747226.467363,
+    "end_time": 1745747248.125302,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.4640625,
+        0.2777777777777778,
+        0.24375,
+        0.2388888888888889
+      ],
+      "region": [
+        0.271875,
+        0.0,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.83984375,
+      "top_score": 0.779296875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747189.285238-wcp94e",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747189.285238,
+    "end_time": 1745747215.947453,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.9125,
+        0.26666666666666666,
+        0.084375,
+        0.6333333333333333
+      ],
+      "region": [
+        0.5,
+        0.03333333333333333,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.65234375,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747174.956266-mzuxsb",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747174.956266,
+    "end_time": 1745747178.56728,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.8921875,
+        0.24722222222222223,
+        0.10625,
+        0.6527777777777778
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.734375,
+      "top_score": 0.70703125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747152.526339-7qlbn1",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747152.526339,
+    "end_time": 1745747178.56728,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.821875,
+        0.3138888888888889,
+        0.1765625,
+        0.5388888888888889
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.796875,
+      "top_score": 0.796875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747135.966028-ebbw8b",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747135.966028,
+    "end_time": 1745747141.495051,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.690625,
+        0.6111111111111112,
+        0.1109375,
+        0.3111111111111111
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.67578125,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747100.686897-fyk869",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747100.686897,
+    "end_time": 1745747107.499294,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.821875,
+        0.45,
+        0.175,
+        0.43333333333333335
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8046875,
+      "top_score": 0.73046875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747089.767673-slp4vb",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747089.767673,
+    "end_time": 1745747102.716501,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.7765625,
+        0.3861111111111111,
+        0.21875,
+        0.5
+      ],
+      "region": [
+        0.5,
+        0.08611111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.82421875,
+      "top_score": 0.822265625,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745747072.346913-qyl122",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745747072.346913,
+    "end_time": 1745747092.985717,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.8453125,
+        0.35833333333333334,
+        0.153125,
+        0.5111111111111111
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8046875,
+      "top_score": 0.7578125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746985.350681-djvmrn",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746985.350681,
+    "end_time": 1745747014.50465,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0046875,
+        0.28055555555555556,
+        0.378125,
+        0.7111111111111111
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.7375,
+        1.3111111111111111
+      ],
+      "score": 0.8046875,
+      "top_score": 0.83203125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746947.972154-d0oh7x",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746947.972154,
+    "end_time": 1745746988.924825,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.315625,
+        0.33611111111111114,
+        0.225,
+        0.23333333333333334
+      ],
+      "region": [
+        0.103125,
+        0.008333333333333333,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.7890625,
+      "top_score": 0.82421875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746914.972397-d87zyt",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746914.972397,
+    "end_time": 1745746945.542228,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.159375,
+        0.3,
+        0.309375,
+        0.35833333333333334
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.56875,
+        1.011111111111111
+      ],
+      "score": 0.82421875,
+      "top_score": 0.841796875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746894.533947-4s06oj",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746894.533947,
+    "end_time": 1745746916.30055,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.8328125,
+        0.25277777777777777,
+        0.1015625,
+        0.39166666666666666
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.8125,
+      "top_score": 0.76171875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746854.542373-e64hvl",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746854.542373,
+    "end_time": 1745746860.58512,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.81875,
+        0.375,
+        0.1796875,
+        0.6111111111111112
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.71484375,
+      "top_score": 0.70703125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746850.552934-47bb7h",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746850.552934,
+    "end_time": 1745746880.300068,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.9,
+        0.25277777777777777,
+        0.09375,
+        0.5
+      ],
+      "region": [
+        0.2375,
+        0.0,
+        0.7625,
+        1.3555555555555556
+      ],
+      "score": 0.70703125,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746835.102638-pneiew",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746835.102638,
+    "end_time": 1745746858.374561,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.790625,
+        0.3111111111111111,
+        0.20625,
+        0.6722222222222223
+      ],
+      "region": [
+        0.5,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.70703125,
+      "top_score": 0.734375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746746.901293-fo6ziu",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746746.901293,
+    "end_time": 1745746782.081069,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.5578125,
+        0.36944444444444446,
+        0.434375,
+        0.6194444444444445
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.04375,
+        1.8555555555555556
+      ],
+      "score": 0.82421875,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746744.622526-c4phjt",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746744.622526,
+    "end_time": 1745746748.925477,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.725,
+        0.20833333333333334,
+        0.2390625,
+        0.7888888888888889
+      ],
+      "region": [
+        0.39375,
+        0.0,
+        0.60625,
+        1.0777777777777777
+      ],
+      "score": 0.7890625,
+      "top_score": 0.71484375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746698.706058-uw51rq",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746698.706058,
+    "end_time": 1745746715.238522,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.628125,
+        0.2777777777777778,
+        0.3140625,
+        0.7166666666666667
+      ],
+      "region": [
+        0.35,
+        0.0,
+        0.65,
+        1.1555555555555554
+      ],
+      "score": 0.8046875,
+      "top_score": 0.720703125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746687.177673-grfbr8",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746687.177673,
+    "end_time": 1745746694.272856,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0,
+        0.38055555555555554,
+        0.3734375,
+        0.6166666666666667
+      ],
+      "region": [
+        0.0,
+        0.0,
+        0.6125,
+        1.0888888888888888
+      ],
+      "score": 0.76953125,
+      "top_score": 0.716796875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746675.744263-rnjvge",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746675.744263,
+    "end_time": 1745746689.183914,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.121875,
+        0.3527777777777778,
+        0.1875,
+        0.3472222222222222
+      ],
+      "region": [
+        0.0,
+        0.10555555555555556,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.796875,
+      "top_score": 0.826171875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746640.163924-bxq4zv",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746640.163924,
+    "end_time": 1745746669.931679,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.1203125,
+        0.33055555555555555,
+        0.209375,
+        0.35
+      ],
+      "region": [
+        0.0,
+        0.08888888888888889,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.83203125,
+      "top_score": 0.84375,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746630.374104-ytmjoj",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746630.374104,
+    "end_time": 1745746633.551212,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.03125,
+        0.31666666666666665,
+        0.5546875,
+        0.6805555555555556
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.04375,
+        1.8555555555555556
+      ],
+      "score": 0.82421875,
+      "top_score": 0.779296875,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746601.385799-yhrhe5",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746601.385799,
+    "end_time": 1745746624.330235,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.0109375,
+        0.25,
+        0.39375,
+        0.7444444444444445
+      ],
+      "region": [
+        0.0,
+        0.1111111111111111,
+        0.5,
+        0.8888888888888888
+      ],
+      "score": 0.76171875,
+      "top_score": 0.8125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  },
+  {
+    "id": "1745746584.165772-5uv75u",
+    "camera": "driveway",
+    "label": "person",
+    "zones": [
+      "zone1"
+    ],
+    "start_time": 1745746584.165772,
+    "end_time": 1745746591.387078,
+    "has_clip": true,
+    "has_snapshot": false,
+    "plus_id": null,
+    "retain_indefinitely": false,
+    "sub_label": null,
+    "top_score": null,
+    "false_positive": null,
+    "box": null,
+    "data": {
+      "box": [
+        0.2921875,
+        0.37777777777777777,
+        0.3609375,
+        0.6194444444444445
+      ],
+      "region": [
+        0.0,
+        0.0,
+        1.18125,
+        2.1
+      ],
+      "score": 0.8125,
+      "top_score": 0.76953125,
+      "attributes": [],
+      "type": "object",
+      "max_severity": "alert"
+    },
+    "thumbnail": ""
+  }
+]
