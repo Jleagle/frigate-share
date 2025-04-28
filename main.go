@@ -1,12 +1,12 @@
 package main
 
 import (
-	"bytes"
 	"encoding/json"
 	"fmt"
 	"html/template"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	"golang.org/x/text/cases"
@@ -26,6 +26,7 @@ func main() {
 			fmt.Println(err)
 			return
 		}
+
 		defer resp.Body.Close()
 
 		b, err := io.ReadAll(resp.Body)
@@ -56,20 +57,39 @@ func main() {
 
 	http.HandleFunc("GET /events/{id}", func(w http.ResponseWriter, r *http.Request) {
 
-		resp, err := http.Get(fmt.Sprintf("http://frigate:5000/api/events/%s/clip.mp4", r.PathValue("id")))
+		url := fmt.Sprintf("http://frigate:5000/api/events/%s/clip.mp4", r.PathValue("id"))
+
+		req, err := http.NewRequest("GET", url, nil)
 		if err != nil {
-			fmt.Println(err)
+			http.Error(w, fmt.Sprintf("Error creating origin request: %v", err), http.StatusInternalServerError)
 			return
 		}
+
+		rangeHeader := r.Header.Get("Range")
+		if rangeHeader != "" {
+			req.Header.Set("Range", rangeHeader)
+		}
+
+		resp, err := http.DefaultClient.Do(req)
+		if err != nil {
+			http.Error(w, fmt.Sprintf("Error fetching video from origin: %v", err), http.StatusBadGateway)
+			return
+		}
+
 		defer resp.Body.Close()
 
-		b, err := io.ReadAll(resp.Body)
-		if err != nil {
-			fmt.Println(err)
-			return
+		for key, values := range resp.Header {
+			for _, value := range values {
+				w.Header().Add(key, value)
+			}
 		}
 
-		http.ServeContent(w, r, "", time.Time{}, bytes.NewReader(b))
+		w.WriteHeader(resp.StatusCode)
+
+		_, err = io.Copy(w, resp.Body)
+		if err != nil && !strings.Contains(err.Error(), "broken pipe") {
+			fmt.Printf("Error copying response body: %v\n", err)
+		}
 	})
 
 	err := http.ListenAndServe("0.0.0.0:5002", nil)
