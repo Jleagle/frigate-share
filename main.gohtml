@@ -11,58 +11,48 @@
         body {
             margin: 10px;
         }
-
-        .card {
-            cursor: pointer;
-        }
-
-        .left {
-            width: 175px;
-        }
-
-        .left img {
-            width: 175px;
-            height: 175px;
-        }
-
-        video {
-            width: 1280px;
-            height: 720px;
-            max-width: 100%;
-        }
     </style>
 </head>
 <body>
 
-<h1>Events</h1>
+<div class="container">
 
-{{ range .Events }}
-    <div class="card mb-3">
-        <div class="row g-0">
-            <div class="col-md-4 left">
-                <img src="data:image/jpg;base64,{{.Thumbnail}}" alt="{{.LabelNice}} in {{.CameraNice}}">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                    <h5 class="card-title">{{.LabelNice}} in {{.CameraNice}}</h5>
-                    <p class="card-text">
-                        <small class="text-body-secondary">{{.Start}} - {{.ScoreNice}}% certainty</small>
-                    </p>
-                    <video controls="controls" preload="none" class="d-none">
-                        <source src="/events/{{.ID}}" type="video/mp4">
-                    </video>
-                </div>
+    <h1>Events</h1>
+
+    {{ range .Events }}
+        <div class="card mb-3">
+            <div class="card-header">{{.LabelNice}} in {{.CameraNice}}: {{.Start}}</div>
+            <div class="ratio ratio-16x9 card-img-top">
+                <video controls="controls" preload="none" class="rounded-bottom">
+                    <source src="/events/{{.ID}}" type="video/mp4">
+                </video>
             </div>
         </div>
-    </div>
-{{end}}
+    {{end}}
+</div>
 
 <script>
-  document.body.addEventListener("click", e => {
-    const card = e.target.closest(".card");
-    if (card) {
-      card.getElementsByTagName('video')[0].classList.toggle('d-none')
-    }
+  function handleIntersection(entries, observer) {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const video = entry.target;
+        if (video.getAttribute('preload') === 'none') {
+          video.setAttribute('preload', 'auto');
+        }
+        observer.unobserve(video);
+      }
+    });
+  }
+
+  const observer = new IntersectionObserver(handleIntersection, {
+    root: null,
+    threshold: 0,
+    rootMargin: '500px',
+  });
+
+  const videos = document.querySelectorAll('video[preload="none"]');
+  videos.forEach(video => {
+    observer.observe(video);
   });
 </script>
 
