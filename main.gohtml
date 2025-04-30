@@ -50,9 +50,36 @@
     rootMargin: '500px',
   });
 
-  const videos = document.querySelectorAll('video[preload="none"]');
+  const videos = document.querySelectorAll('video');
+
   videos.forEach(video => {
+
+    // preload videos that are nearby
     observer.observe(video);
+
+    // Move the clicked video the the center
+    video.addEventListener('click', (event) => {
+
+      const videoRect = video.getBoundingClientRect();
+      const windowHeight = window.innerHeight || document.documentElement.clientHeight;
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
+      const scrollAmount = scrollTop + (videoRect.top + videoRect.height / 2) - (windowHeight / 2);
+
+      window.scrollTo({
+        top: scrollAmount,
+        behavior: 'smooth'
+      });
+    });
+
+    // Pause videos when you play one
+    video.addEventListener('play', (event) => {
+
+      videos.forEach(video2 => {
+        if (video2 !== event.target && !video2.paused) {
+          video2.pause();
+        }
+      });
+    });
   });
 </script>
 
