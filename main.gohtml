@@ -73,10 +73,8 @@
       const scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
       const scrollAmount = scrollTop + (videoRect.top + videoRect.height / 2) - (windowHeight / 2);
 
-      window.scrollTo({
-        top: scrollAmount,
-        behavior: 'smooth'
-      });
+      // setTimeout to make it work for mobile
+      setTimeout(() => window.scrollTo({top: scrollAmount, behavior: 'smooth'}), 10);
     });
 
     // Pause videos when you play one
