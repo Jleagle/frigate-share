@@ -79,10 +79,9 @@
 
     // Pause videos when you play one
     video.addEventListener('play', (event) => {
-
-      videos.forEach(video2 => {
-        if (video2 !== event.target && !video2.paused) {
-          video2.pause();
+      videos.forEach(video => {
+        if (video !== event.target && !video.paused) {
+          video.pause();
         }
       });
     });
