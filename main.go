@@ -56,6 +56,10 @@ func main() {
 			return
 		}
 
+		if len(events) > 50 {
+			events = events[:50]
+		}
+
 		err = templates.ExecuteTemplate(w, "main.gohtml", Data{Events: events})
 		if err != nil {
 			fmt.Println(err)
