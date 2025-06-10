@@ -19,6 +19,14 @@ func main() {
 
 	var templates = template.Must(template.ParseFiles("main.gohtml"))
 
+	http.HandleFunc("GET /logo.jpg", func(w http.ResponseWriter, r *http.Request) {
+		http.ServeFile(w, r, "logo.jpg")
+	})
+
+	http.HandleFunc("GET /manifest.json", func(w http.ResponseWriter, r *http.Request) {
+		http.ServeFile(w, r, "manifest.json")
+	})
+
 	http.HandleFunc("GET /", func(w http.ResponseWriter, r *http.Request) {
 
 		resp, err := http.Get("http://frigate:5000/api/events")

@@ -1,0 +1,18 @@
+{
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "1024x1024",
+      "src": "logo.jpg",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-GB",
+  "start_url": "https://cameras.jimeagle.com/",
+  "name": "Cameras"
+}
