@@ -4,8 +4,8 @@
   "icons": [
     {
       "purpose": "any",
-      "sizes": "1024x1024",
-      "src": "logo.jpg",
+      "sizes": "128x128",
+      "src": "logo.png",
       "type": "image/png"
     }
   ],

@@ -19,8 +19,8 @@ func main() {
 
 	var templates = template.Must(template.ParseFiles("main.gohtml"))
 
-	http.HandleFunc("GET /logo.jpg", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "logo.jpg")
+	http.HandleFunc("GET /logo.png", func(w http.ResponseWriter, r *http.Request) {
+		http.ServeFile(w, r, "logo.png")
 	})
 
 	http.HandleFunc("GET /manifest.json", func(w http.ResponseWriter, r *http.Request) {
