@@ -5,7 +5,7 @@
     {
       "purpose": "any",
       "sizes": "128x128",
-      "src": "logo.png",
+      "src": "/icons/logo.png",
       "type": "image/png"
     }
   ],
